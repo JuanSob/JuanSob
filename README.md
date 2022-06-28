@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Juan Sobalvarro</h1>
-<h3 align="center">A passionate learner seeking to overcome new challenges.</h3>
+<h1 align="center">Welcome to my GitHub profile!</h1>
+<img src="img/portada.png">
+<h3 align="center">I'm passionate learner seeking to overcome new challenges.</h3>
 
 <ul align="center">
     📫 How to reach me <a href="mailto:juansob@duck.com">juansob@duck.com</a>
